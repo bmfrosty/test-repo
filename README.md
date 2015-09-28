@@ -1,3 +1,3 @@
 # test-repo
 This is my new test repository.
-Testing a commit aganst this repo!
+Tsting a commit aganst this repo!
